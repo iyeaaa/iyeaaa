@@ -1,4 +1,4 @@
-<h1 align="center">반갑습니다 👋, I'm yein</h1>
+<h1 align="center">반갑습니다 👋, 이예인입니다.</h1>
 - 🌱 I’m currently learning **IOS, Flutter**
 
 - 📝 I regularly write articles on [https://blog.naver.com/iyeaaa](https://blog.naver.com/iyeaaa)
