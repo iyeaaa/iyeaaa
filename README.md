@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=fbfbfb&height=100&section=header&text=Yi%20YE%20IN&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=dddddd&height=100&section=header&text=Yi%20YE%20IN&fontSize=50)
 - 🌱 I’m currently learning **IOS, Flutter**
 
 - 📫 How to reach me **iyeaaa@icloud.com**
