@@ -1,8 +1,6 @@
 <h1 align="center">이예인</h1>
 - 🌱 I’m currently learning **IOS, Flutter**
 
-- 📝 I regularly write articles on [https://blog.naver.com/iyeaaa](https://blog.naver.com/iyeaaa)
-
 - 📫 How to reach me **iyeaaa@icloud.com**
 
 <h3 align="left">Languages and Tools:</h3>
