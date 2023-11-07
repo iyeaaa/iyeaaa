@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=dddddd&height=100&section=header&text=Yi%20Yein&fontSize=50)
-- 🌱 I’m currently learning **iOS, Flutter**
+- 🌱 I’m currently learning **iOS, Flutter** and Security?
 
 - 📫 How to reach me **iyeaaa@icloud.com**
 
